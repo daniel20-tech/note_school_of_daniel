@@ -1,5 +1,5 @@
 <?php
-// On inclut le modèle pour pouvoir utiliser la fonction de sauvegarde
+// On inclut le modèle pour pouvoir utiliser la fonction de sauvegarde.
 require_once 'modele.php';
 
 $message = "";
